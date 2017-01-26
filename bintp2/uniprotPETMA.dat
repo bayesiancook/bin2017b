@@ -1,0 +1,1878 @@
+ID   ALBU_PETMA              Reviewed;        1423 AA.
+AC   Q91274;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   30-NOV-2016, entry version 75.
+DE   RecName: Full=Serum albumin SDS-1;
+DE   Flags: Precursor;
+GN   Name=SDS-1;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M74193; AAA49271.1; -; mRNA.
+DR   PIR; S27941; S27941.
+DR   ProteinModelPortal; Q91274; -.
+DR   SMR; Q91274; -.
+DR   PRIDE; Q91274; -.
+DR   eggNOG; ENOG4111PH6; LUCA.
+DR   HOVERGEN; HBG004208; -.
+DR   GO; GO:0005615; C:extracellular space; IEA:InterPro.
+DR   GO; GO:0008289; F:lipid binding; IEA:UniProtKB-KW.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006810; P:transport; IEA:InterPro.
+DR   CDD; cd00015; ALBUMIN; 6.
+DR   InterPro; IPR000264; ALB/AFP/VDB.
+DR   InterPro; IPR020858; Serum_albumin-like.
+DR   InterPro; IPR020857; Serum_albumin_CS.
+DR   InterPro; IPR014760; Serum_albumin_N.
+DR   Pfam; PF00273; Serum_albumin; 8.
+DR   PRINTS; PR00802; SERUMALBUMIN.
+DR   SMART; SM00103; ALBUMIN; 7.
+DR   SUPFAM; SSF48552; SSF48552; 8.
+DR   PROSITE; PS00212; ALBUMIN_1; 7.
+DR   PROSITE; PS51438; ALBUMIN_2; 7.
+PE   1: Evidence at protein level;
+KW   Cleavage on pair of basic residues; Copper; Direct protein sequencing;
+KW   Disulfide bond; Glycoprotein; Lipid-binding; Metal-binding; Repeat;
+KW   Secreted; Signal.
+SQ   SEQUENCE   1423 AA;  159094 MW;  22F3E6950CCE9318 CRC64;
+     MGKAMLKLCI TLMVLVFSGT AESKGVMRRE DESFPHLKSR LCGGLNGLGE DAYRSHCVVY
+     YTKRMGVVSL DHVEELANHC LRIVKQCCAE GAADDCLQTE LAAVQEQVCT RMSEAKDVPL
+     VGRCCALAGS ERHDCFHHAG GVAEGEGAWP HALPVTSPPE YDSVTVCALH ATANARLYDT
+     LLWEFSRRYP SASDSHLIAL ANEFITGLTT CCLVEEEHGA CLATLREDFK HKLTEASHKS
+     QNLCKALKSL GKEKFEDRII VRFTQRAPQA PFELIQKLAH RFEVLAEKCC ELGHSDRCLV
+     EERYTVDDEL CLEQSFVATC PRLSSCCSLS GSSRAQCLET VPVLETSDKA SPATPTLPIS
+     EQCTLWAGKP VEFHKRVVWQ ISHRYPTTGV AQVEALAHHY LEHLTICCAS EDKDTCIATE
+     VAEFKSEVEK VHTKSDWWCR MSDLLGTDRF NLLLIVTYSQ RVPQATFEQV EEISHHFALI
+     TRKCCSHRKN GSCFLEERYA LHDAICRDEA WLSGLAEVSR CCAMDGRARI LCFDELSSHL
+     NASVEERPEL CSTSLCSKYH DLGFEFKQRV AYGFGQRFPK AAMGQMRDLI SKYLAMVQRC
+     CDAMSDFKMD VEEVELRAHR LCLDAHQLGE EKLADRIMIG LAQRISVASF VNISSVALHF
+     AQSVIKCCDA DHEKTCFMEQ EFALEDQVCS DSEALSHIPS VSRCCELHPF DRSVCFHSLR
+     STQASTLAST HVAVGKDDSL PGHVEECQAF ASGNHSLTDQ VMFEFARRHP RASVSQVESL
+     ARLYSELARA CCALTDADQE SCLHTARSQA RQEALKSLQR SERICNTLSA IGKEKFEDRI
+     VIALSQKATD ASFEQILEIA NRMSRGLARC CEQGNNVGCL MDHRHALHEA ICSTPDGSLP
+     QSVAACCNTS NTSTTTSTTT STTTSTTTST TTSTTSTTTA AEIRDSCFDN LQANVSRAHA
+     PFYSNSQLCL MKLRTPHRFL ERFLWEFGRR HPQAALSQVE ELAEMYVKMT DSCCGKLHSK
+     SCFTEQRHTI HMEIRHAYAE VQHICGSLHS RGEETFIQRE VTLLSQKAPN ASFEKVSQLA
+     RHFLSLAKKC CAPDHAAGCF LEEPYAIHDE VCRDDEVVDQ VGGLATCCRM SGTSRAKCLA
+     QLPRDLGRHG NRETPEFDEL KICELRRDNP AVLMEKILYE FGRRHSDSAV SEVKNFAQKF
+     SHSVTECCTS EKTHECFVEK RAAIEKVIKD EEAKGNLTCQ RLKAQGVEHF EQLVILNFAR
+     AAKSLPMEKV VEFAHRFTRI AGQCCEHDTH CLIDESFHLH AEMCGDHGYI MAHPGVANCC
+     KSDVSEQGTC FKIHEDVHHA EEILSKDVSP AHPTAERVCL RYRQFPEKFI NLALFELVHR
+     LPLLESSVLR RKALAYTGFT DDCCRAVDKT ACFTEKLEAI KSS
+//
+ID   APL1_PETMA              Reviewed;         105 AA.
+AC   P07095;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1988, sequence version 1.
+DT   01-OCT-2014, entry version 46.
+DE   RecName: Full=Blood plasma apolipoprotein LAL1;
+DE   Flags: Precursor;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M15891; AAA49259.1; -; mRNA.
+DR   PIR; A26602; A26602.
+DR   GO; GO:0034364; C:high-density lipoprotein particle; IEA:UniProtKB-KW.
+DR   GO; GO:0006869; P:lipid transport; IEA:UniProtKB-KW.
+PE   2: Evidence at transcript level;
+KW   HDL; Lipid transport; Secreted; Signal; Transport.
+SQ   SEQUENCE   105 AA;  11613 MW;  C5AB840BC502BF85 CRC64;
+     MKLHVAALAT LAVVCILAAG SEAAPKAMSD PAVVKAQLFP DAFWESFKNV SMEFKKMVHG
+     LQTSNIGEHA KSLYTDTVAV LTPYLQKIRE NVTKMYQVYV ESKQH
+//
+ID   APL2_PETMA              Reviewed;         191 AA.
+AC   P07096;
+DT   01-APR-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1988, sequence version 1.
+DT   01-OCT-2014, entry version 45.
+DE   RecName: Full=Blood plasma apolipoprotein LAL2;
+DE   Flags: Precursor;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M15892; AAA49260.1; -; mRNA.
+DR   PIR; B26602; B26602.
+DR   GO; GO:0034364; C:high-density lipoprotein particle; IEA:UniProtKB-KW.
+DR   GO; GO:0006869; P:lipid transport; IEA:UniProtKB-KW.
+PE   2: Evidence at transcript level;
+KW   HDL; Lipid transport; Secreted; Signal; Transport.
+SQ   SEQUENCE   191 AA;  20549 MW;  9F608E1B15FB20B1 CRC64;
+     MLSTKMTHAA GLLLLVLTAY VQADETQLVP ATGKTYLETA LERLHSYGEA VSGDKADGIM
+     TEARELVEQF MEEFQAKALP EGVTTHKLAE EMAEAANAKL VPILQAAKAG IERVTAHLHE
+     SAPLIIKVRG FIESKRGVMW AYLAALAERA KKAKLDDTLK GVRDGLTALT LSSIGLMKEV
+     KEIASAPPPA Q
+//
+ID   ATP6_PETMA              Reviewed;         237 AA.
+AC   Q35538;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   30-NOV-2016, entry version 83.
+DE   RecName: Full=ATP synthase subunit a;
+DE   AltName: Full=F-ATPase protein 6;
+GN   Name=MT-ATP6; Synonyms=ATP6, ATPASE6, MTATP6;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08743.1; -; Genomic_DNA.
+DR   PIR; S55009; S55009.
+DR   RefSeq; NP_008153.2; NC_001626.1.
+DR   ProteinModelPortal; Q35538; -.
+DR   GeneID; 807806; -.
+DR   CTD; 4508; -.
+DR   HOVERGEN; HBG016693; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045263; C:proton-transporting ATP synthase complex, coupling factor F(o); IEA:UniProtKB-KW.
+DR   GO; GO:0015078; F:hydrogen ion transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0015986; P:ATP synthesis coupled proton transport; IEA:InterPro.
+DR   Gene3D; 1.20.120.220; -; 1.
+DR   InterPro; IPR000568; ATP_synth_F0_asu.
+DR   InterPro; IPR023011; ATP_synth_F0_asu_AS.
+DR   PANTHER; PTHR11410; PTHR11410; 1.
+DR   Pfam; PF00119; ATP-synt_A; 1.
+DR   PRINTS; PR00123; ATPASEA.
+DR   SUPFAM; SSF81336; SSF81336; 1.
+DR   TIGRFAMs; TIGR01131; ATP_synt_6_or_A; 1.
+DR   PROSITE; PS00449; ATPASE_A; 1.
+PE   3: Inferred from homology;
+KW   ATP synthesis; CF(0); Hydrogen ion transport; Ion transport; Membrane;
+KW   Mitochondrion; Mitochondrion inner membrane; Transmembrane;
+KW   Transmembrane helix; Transport.
+SQ   SEQUENCE   237 AA;  26158 MW;  3F91CC09F7FF6308 CRC64;
+     MTLDIFDQFT SPTMFGLPLA WLAMLAPSLM LVSQTPKFIK SRYHTLLTPI LTSIAKQLFL
+     PMNQQGHKWA LICMASMMFI LMINLLGLLP YTYTPTTQLS MNMGLAVPLW LATVLIGLQK
+     KPTEALAHLL PEGTPAALIP MLIIIETISL FIRPIALGVR LTANLTAGHL LMQLVSMTTF
+     VMIPVISISI ITSLLLLLLT ILELAVAVIQ AYVFILLLTL YLQENVYVPP SSCMPHG
+//
+ID   ATP8_PETMA              Reviewed;          55 AA.
+AC   Q35537;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 74.
+DE   RecName: Full=ATP synthase protein 8;
+DE   AltName: Full=A6L;
+DE   AltName: Full=F-ATPase subunit 8;
+GN   Name=MT-ATP8; Synonyms=ATP8, ATPASE8, MTATP8;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08742.1; -; Genomic_DNA.
+DR   PIR; S55008; S55008.
+DR   RefSeq; NP_008152.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014127; ENSPMAP00000011435; ENSPMAG00000013100.
+DR   GeneID; 807808; -.
+DR   CTD; 4509; -.
+DR   HOVERGEN; HBG017400; -.
+DR   OMA; QNTISTK; -.
+DR   OrthoDB; EOG091G19HZ; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0000276; C:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o); IEA:InterPro.
+DR   GO; GO:0015078; F:hydrogen ion transmembrane transporter activity; IEA:InterPro.
+DR   GO; GO:0015986; P:ATP synthesis coupled proton transport; IEA:InterPro.
+DR   InterPro; IPR001421; ATP8_metazoa.
+DR   Pfam; PF00895; ATP-synt_8; 1.
+PE   3: Inferred from homology;
+KW   ATP synthesis; CF(0); Hydrogen ion transport; Ion transport; Membrane;
+KW   Mitochondrion; Transmembrane; Transmembrane helix; Transport.
+SQ   SEQUENCE   55 AA;  6589 MW;  C90234DFFF0804F6 CRC64;
+     MPQLDPAPWF SMLTVSWLII FLLIMPTILF YQPQNTISTK QVTKPKQSTW TWPWH
+//
+ID   CLC35_PETMA             Reviewed;          17 AA.
+AC   Q9PRY2;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-MAR-2010, sequence version 2.
+DT   01-OCT-2014, entry version 21.
+DE   RecName: Full=C-type lectin 35 kDa subunit {ECO:0000303|PubMed:18937980};
+DE   AltName: Full=C-type lectin 30 kDa subunit {ECO:0000303|PubMed:8192354};
+DE   Flags: Fragment;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005537; F:mannose binding; IDA:UniProtKB.
+DR   GO; GO:0045087; P:innate immune response; IDA:UniProtKB.
+DR   GO; GO:0034120; P:positive regulation of erythrocyte aggregation; IDA:UniProtKB.
+PE   1: Evidence at protein level;
+KW   Calcium; Direct protein sequencing; Hemagglutinin; Immunity;
+KW   Innate immunity; Lectin; Mannose-binding; Secreted.
+SQ   SEQUENCE   17 AA;  1839 MW;  5E0F83DD4185F446 CRC64;
+     XWSCTKGCPD AKQCEAT
+//
+ID   CLC65_PETMA             Reviewed;          10 AA.
+AC   P86454;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-MAR-2010, sequence version 1.
+DT   01-OCT-2014, entry version 7.
+DE   RecName: Full=C-type lectin 65 kDa subunit {ECO:0000303|PubMed:18937980, ECO:0000303|PubMed:8192354};
+DE   Flags: Fragment;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005537; F:mannose binding; IDA:UniProtKB.
+DR   GO; GO:0045087; P:innate immune response; IDA:UniProtKB.
+DR   GO; GO:0034120; P:positive regulation of erythrocyte aggregation; IDA:UniProtKB.
+PE   1: Evidence at protein level;
+KW   Calcium; Direct protein sequencing; Hemagglutinin; Immunity;
+KW   Innate immunity; Lectin; Mannose-binding; Secreted.
+SQ   SEQUENCE   10 AA;  1165 MW;  C285A6D1A447244D CRC64;
+     SWANLNTFGR
+//
+ID   COX1_PETMA              Reviewed;         517 AA.
+AC   Q35536;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   30-NOV-2016, entry version 98.
+DE   RecName: Full=Cytochrome c oxidase subunit 1;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome c oxidase polypeptide I;
+GN   Name=MT-CO1; Synonyms=COI, COXI, MTCO1;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08740.1; -; Genomic_DNA.
+DR   PIR; S55006; S55006.
+DR   RefSeq; NP_008150.1; NC_001626.1.
+DR   ProteinModelPortal; Q35536; -.
+DR   Ensembl; ENSPMAT00000014122; ENSPMAP00000011433; ENSPMAG00000013095.
+DR   GeneID; 807802; -.
+DR   CTD; 4512; -.
+DR   GeneTree; ENSGT00390000001518; -.
+DR   HOVERGEN; HBG003841; -.
+DR   OMA; PYHTFEE; -.
+DR   OrthoDB; EOG091G035B; -.
+DR   UniPathway; UPA00705; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045277; C:respiratory chain complex IV; ISS:UniProtKB.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0009060; P:aerobic respiration; IEA:InterPro.
+DR   GO; GO:0006119; P:oxidative phosphorylation; IEA:UniProtKB-UniPathway.
+DR   GO; GO:0046686; P:response to cadmium ion; IEA:Ensembl.
+DR   GO; GO:0051597; P:response to methylmercury; IEA:Ensembl.
+DR   CDD; cd01663; Cyt_c_Oxidase_I; 1.
+DR   Gene3D; 1.20.210.10; -; 1.
+DR   InterPro; IPR000883; COX1.
+DR   InterPro; IPR023616; Cyt_c_oxase-like_su1_dom.
+DR   InterPro; IPR023615; Cyt_c_Oxase_su1_BS.
+DR   InterPro; IPR033944; Cyt_c_oxase_su1_dom.
+DR   PANTHER; PTHR10422; PTHR10422; 1.
+DR   Pfam; PF00115; COX1; 1.
+DR   PRINTS; PR01165; CYCOXIDASEI.
+DR   SUPFAM; SSF81442; SSF81442; 1.
+DR   PROSITE; PS50855; COX1; 1.
+DR   PROSITE; PS00077; COX1_CUB; 1.
+PE   3: Inferred from homology;
+KW   Copper; Electron transport; Heme; Iron; Membrane; Metal-binding;
+KW   Mitochondrion; Mitochondrion inner membrane; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport.
+SQ   SEQUENCE   517 AA;  57235 MW;  EFC28A637BA44F4D CRC64;
+     MTHIRWLFST NHKDIGTLYL IFGAWAGMVG TALSILIRAE LSQPGTLLGD DQIFNVIVTA
+     HAFVMIFFMV MPIMIGGFGN WLVPLMLGAP DMAFPRMNNM SFWLLPPSLL LLLASAGVEA
+     GAGTGWTVYP PLAGNLAHTG ASVDLTIFSL HLAGVSSILG AVNFITTIFN MKPPTMTQYQ
+     TPLFVWSVLI TAVLLLLSLP VLAAAITMLL TDRNLNTSFF DPAGGGDPIL YQHLFWFFGH
+     PEVYILILPG FGIISHVVAY YAGKKEPFGY MGMVWAMMAI GLLGFIVWAH HMFTVGMDVD
+     TRAYFTSATM IIAIPTGVKV FSWLATLHGG KIVWHTPMLW ALGFIFLFTV GGLTGIVLSN
+     SSLDIILHDT YYVVAHFHYV LSMGAVFAIM AGFVHWFPLF TGYTLNETWA KAHFIIMFAG
+     VNLTFFPQHF LGLAGMPRRY SDYPDAYTTW NIISSIGSTV SLIAVMLFMF ILWEAFSAKR
+     KAIATDLLNT NLEWLHGCPP PYHTYEEPAF VQTNFKK
+//
+ID   COX2_PETMA              Reviewed;         229 AA.
+AC   Q37604;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   05-OCT-2016, entry version 94.
+DE   RecName: Full=Cytochrome c oxidase subunit 2;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome c oxidase polypeptide II;
+GN   Name=MT-CO2; Synonyms=COII, COXII, MTCO2;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08741.1; -; Genomic_DNA.
+DR   PIR; S55007; S55007.
+DR   RefSeq; NP_008151.1; NC_001626.1.
+DR   ProteinModelPortal; Q37604; -.
+DR   PRIDE; Q37604; -.
+DR   Ensembl; ENSPMAT00000014125; ENSPMAP00000011434; ENSPMAG00000013098.
+DR   GeneID; 807803; -.
+DR   CTD; 4513; -.
+DR   GeneTree; ENSGT00390000017410; -.
+DR   HOVERGEN; HBG012727; -.
+DR   OMA; VVLPMEM; -.
+DR   OrthoDB; EOG091G0IO9; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045277; C:respiratory chain complex IV; ISS:UniProtKB.
+DR   GO; GO:0005507; F:copper ion binding; IEA:InterPro.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0022900; P:electron transport chain; IEA:InterPro.
+DR   Gene3D; 1.10.287.90; -; 1.
+DR   Gene3D; 2.60.40.420; -; 1.
+DR   InterPro; IPR001505; Copper_CuA.
+DR   InterPro; IPR008972; Cupredoxin.
+DR   InterPro; IPR014222; Cyt_c_oxidase_su2.
+DR   InterPro; IPR002429; Cyt_c_oxidase_su2_C.
+DR   InterPro; IPR011759; Cyt_c_oxidase_su2_TM_dom.
+DR   Pfam; PF00116; COX2; 1.
+DR   Pfam; PF02790; COX2_TM; 1.
+DR   SUPFAM; SSF49503; SSF49503; 1.
+DR   SUPFAM; SSF81464; SSF81464; 1.
+DR   TIGRFAMs; TIGR02866; CoxB; 1.
+DR   PROSITE; PS00078; COX2; 1.
+DR   PROSITE; PS50857; COX2_CUA; 1.
+DR   PROSITE; PS50999; COX2_TM; 1.
+PE   3: Inferred from homology;
+KW   Copper; Electron transport; Membrane; Metal-binding; Mitochondrion;
+KW   Mitochondrion inner membrane; Oxidoreductase; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport.
+SQ   SEQUENCE   229 AA;  25916 MW;  58D5A727E56C293E CRC64;
+     MAQQAQLGLQ DAASPIMEEL IHFHDHTLTV VFLISVLIFY LIIVMVTTTF MNKHSLDSQE
+     VEIVWTVMPA IVLITIALPS LRILYLTDEI SNPHLTIKAV GHQWYWSYEY TDYHQMEFDS
+     YMIPTNELEP GGIRLLDVDH RIVVPMESPV RMLITSEDVI HSWTIPSLGT KVDAVPGRLN
+     QATFITTRPG LFFGQCSEIC GANHSFMPIA LEAVPLSNFE NWTTKVLAS
+//
+ID   COX3_PETMA              Reviewed;         261 AA.
+AC   Q35539;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   30-NOV-2016, entry version 84.
+DE   RecName: Full=Cytochrome c oxidase subunit 3;
+DE            EC=1.9.3.1;
+DE   AltName: Full=Cytochrome c oxidase polypeptide III;
+GN   Name=MT-CO3; Synonyms=COIII, COXIII, MTCO3;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08744.1; -; Genomic_DNA.
+DR   PIR; S55010; S55010.
+DR   RefSeq; NP_008154.1; NC_001626.1.
+DR   ProteinModelPortal; Q35539; -.
+DR   Ensembl; ENSPMAT00000014129; ENSPMAP00000011437; ENSPMAG00000013102.
+DR   GeneID; 807805; -.
+DR   CTD; 4514; -.
+DR   GeneTree; ENSGT00390000013064; -.
+DR   HOVERGEN; HBG016686; -.
+DR   OMA; PWPLTGA; -.
+DR   OrthoDB; EOG091G0GH8; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045277; C:respiratory chain complex IV; ISS:UniProtKB.
+DR   GO; GO:0004129; F:cytochrome-c oxidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0019646; P:aerobic electron transport chain; IEA:InterPro.
+DR   CDD; cd01665; Cyt_c_Oxidase_III; 1.
+DR   Gene3D; 1.20.120.80; -; 1.
+DR   InterPro; IPR024791; Cyt_c/ubiquinol_Oxase_su3.
+DR   InterPro; IPR033945; Cyt_c_oxase_su3_dom.
+DR   InterPro; IPR000298; Cyt_c_oxidase-like_su3.
+DR   InterPro; IPR013833; Cyt_c_oxidase_su3_a-hlx.
+DR   PANTHER; PTHR11403; PTHR11403; 1.
+DR   Pfam; PF00510; COX3; 1.
+DR   SUPFAM; SSF81452; SSF81452; 1.
+DR   PROSITE; PS50253; COX3; 1.
+PE   3: Inferred from homology;
+KW   Membrane; Mitochondrion; Mitochondrion inner membrane; Oxidoreductase;
+KW   Transmembrane; Transmembrane helix.
+SQ   SEQUENCE   261 AA;  29718 MW;  314B955DCC9A7B7E CRC64;
+     MSHQAHAYHM VDPSPWPLTG AGAALLMTSG LAMWFHKNSC ILMTLGLILM LLTMYQWWRD
+     IVREGTFLGH HTSPVQQGLR YGMILFIISE VCFFAGFFWA FYHASLAPTP ELGLTWPPTG
+     INPLNPFEVP LLNTAVLLAS GVSVTWAHHS ITEKNRTETT QALTLTVLLG LYFTALQIME
+     YYETPFTMAD GVYGSTFFVA TGFHGLHVII GSLFLLTCLL RHLQYHFTSK HHFGFEAAAW
+     YWHFVDVVWL FLYISIYWWG S
+//
+ID   CYB_PETMA               Reviewed;         396 AA.
+AC   Q35534;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   02-NOV-2016, entry version 89.
+DE   RecName: Full=Cytochrome b;
+DE   AltName: Full=Complex III subunit 3;
+DE   AltName: Full=Complex III subunit III;
+DE   AltName: Full=Cytochrome b-c1 complex subunit 3;
+DE   AltName: Full=Ubiquinol-cytochrome-c reductase complex cytochrome b subunit;
+GN   Name=mt-cyb; Synonyms=cob, cytb, mtcyb;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08737.1; -; Genomic_DNA.
+DR   PIR; S54999; S54999.
+DR   RefSeq; NP_008147.1; NC_001626.1.
+DR   ProteinModelPortal; Q35534; -.
+DR   Ensembl; ENSPMAT00000014105; ENSPMAP00000011430; ENSPMAG00000013078.
+DR   GeneID; 807810; -.
+DR   CTD; 4519; -.
+DR   GeneTree; ENSGT00390000017948; -.
+DR   HOVERGEN; HBG017694; -.
+DR   OMA; FFFVAVY; -.
+DR   OrthoDB; EOG091G0DW4; -.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0045275; C:respiratory chain complex III; IEA:InterPro.
+DR   GO; GO:0009055; F:electron carrier activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008121; F:ubiquinol-cytochrome-c reductase activity; IEA:InterPro.
+DR   GO; GO:0006122; P:mitochondrial electron transport, ubiquinol to cytochrome c; IEA:InterPro.
+DR   CDD; cd00284; Cytochrome_b_N; 1.
+DR   Gene3D; 1.20.810.10; -; 1.
+DR   InterPro; IPR005798; Cyt_b/b6_C.
+DR   InterPro; IPR005797; Cyt_b/b6_N.
+DR   InterPro; IPR027387; Cytb/b6-like.
+DR   InterPro; IPR030689; Cytochrome_b.
+DR   InterPro; IPR016174; Di-haem_cyt_TM.
+DR   Pfam; PF00032; Cytochrom_B_C; 1.
+DR   Pfam; PF00033; Cytochrome_B; 1.
+DR   PIRSF; PIRSF038885; COB; 1.
+DR   SUPFAM; SSF81342; SSF81342; 1.
+DR   SUPFAM; SSF81648; SSF81648; 1.
+DR   PROSITE; PS51003; CYTB_CTER; 1.
+DR   PROSITE; PS51002; CYTB_NTER; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Heme; Iron; Membrane; Metal-binding;
+KW   Mitochondrion; Mitochondrion inner membrane; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport; Ubiquinone.
+SQ   SEQUENCE   396 AA;  44551 MW;  A7983DA248A0767D CRC64;
+     MSHQPSIIRK THPLLSLGNS MLVDLPSPAN ISAWWNFGSL LSLCLILQII TGLILAMHYT
+     ANTELAFSSV MHICRDVNNG WLMRNLHANG ASMFFICIYA HIGRGIYYGS YLYKETWNVG
+     VILFALTAAT AFVGYVLPWG QMSFWGATVI TNLISAMPYV GNDIVVWLWG GFSVSNATLT
+     RFFTFHFILP FILAAMTMIH IMFLHQTGSS NPMGINSNLD KIQFHPYFSF KDILGFVILL
+     GILFMISLLA PNALGEPDNF IYANPLSTPP HIKPEWYFLF AYAILRSVPN KLGGVVALAA
+     AIMILLIIPF THTSKQRGMQ FRPLAQITFW ILIADLALLT WLGGEPAEYP FILMTQIAST
+     VYFMIFILVF PILGYLENKM LLMSKNTGKF NWKLVY
+//
+ID   FIBA1_PETMA             Reviewed;         966 AA.
+AC   P02674;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1991, sequence version 2.
+DT   02-NOV-2016, entry version 89.
+DE   RecName: Full=Fibrinogen alpha-1 chain;
+DE   Contains:
+DE     RecName: Full=Fibrinopeptide A;
+DE   Contains:
+DE     RecName: Full=Fibrinogen alpha-1 chain;
+DE   Flags: Precursor; Fragment;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M30123; AAA49263.1; -; mRNA.
+DR   PIR; A33626; A33626.
+DR   PDB; 1LWU; X-ray; 2.80 A; A/D/G/J=87-205.
+DR   PDB; 1N73; X-ray; 2.90 A; A/D=87-205.
+DR   PDBsum; 1LWU; -.
+DR   PDBsum; 1N73; -.
+DR   ProteinModelPortal; P02674; -.
+DR   SMR; P02674; -.
+DR   STRING; 7757.ENSPMAP00000008504; -.
+DR   eggNOG; KOG2579; Eukaryota.
+DR   eggNOG; ENOG410ZYS4; LUCA.
+DR   EvolutionaryTrace; P02674; -.
+DR   GO; GO:0005577; C:fibrinogen complex; IEA:InterPro.
+DR   GO; GO:0030168; P:platelet activation; IEA:InterPro.
+DR   GO; GO:0051258; P:protein polymerization; IEA:InterPro.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   InterPro; IPR012290; Fibrinogen_a/b/g_coil_dom.
+DR   Pfam; PF08702; Fib_alpha; 1.
+DR   SMART; SM01212; Fib_alpha; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Blood coagulation; Coiled coil;
+KW   Direct protein sequencing; Disulfide bond; Hemostasis; Repeat;
+KW   Secreted; Signal.
+SQ   SEQUENCE   966 AA;  97314 MW;  410520898AA799EE CRC64;
+     QVCIADDISL RGPRLTEQRS AGQGSCASAT ADLCVHGDWG RKCPNGCRMQ GLMSHAEKDI
+     GKRIGDLTER LARLGRLYTQ VHTDFRAVSD TSGQTLNEHN ELEVRYSEVL RELERRIIHL
+     QRRINMQLQQ LTLLQHNIKT QVSQILRVEV DIDVALRTCK GSCARYLEYR LDKEKNLQLE
+     KAASYIANLK FERFEEVVVE ETLNRRVETS SHAFQPTHGQ GTPQPGHGTH SLSATSSITS
+     APNFVPHRQP TYVDHGRLSN PNEVAHSASS SSTHTSSSSS PSQPVSRDSA FPLPGSNTGT
+     SEWDFNFHDE STPGNGPRDE AAASSSAHSP STASHDTATS TTSFSSGTSG KDVAPLGTGV
+     THDGGVRTSG SLMDGGSSDT GTGGVSKTTT FTGSAQGGSW STGGSTATNT GSAQGGSWST
+     GGRTEPNTGS GQGGSWGTGG RTEPNTGSGQ GGSWGTGGRT EPNTGSGQGG SWGTGGRTEP
+     NTGSAQGGSW GTGGRTEPNT GSAQGGSWGT GGRTEPNTGS AQGGSWSTGG RTEPNTGSAK
+     GGSWGTGGRT EPNTGSAKGG SWSTGGRTEP NTGSAKGGSW GTGGRTEPNT GSAQGGSWGT
+     GGRTEPNTGS AQGGSWGTGG RTEPNTGSAQ GGSWGTGGRT EPNTGSAQGG SWGTGGRTEP
+     NTGSAQGGSW STGGRTEPNT GSGQGGSWGT GGRTEPNTGS GQGGSWSTGG RTEPNTGSGQ
+     GGSWGTGGRT EPNTGSAQGG SWGTGGRTEP NTGSAQGGSW GTGGSTATNT GSAQGGGGYA
+     AGGTGAQTGS GSTSTHSAHS ASGGMSSLDM LPALPDFGTW DMPDHSDIFS RRRVSTSSTT
+     SSSSGGGHAG AAAGGGGDGA SRFGSLFTTD FGPEFHEEFR SMLPGASRLS SSSSSSTRST
+     SSTSGGKVVT ESVVTKVLSN GTTITHHTKH VSTSDGTGAA SDGVSPLLTG RKTKAARSRR
+     AKATRP
+//
+ID   FIBA2_PETMA             Reviewed;         641 AA.
+AC   P33573;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1994, sequence version 1.
+DT   30-NOV-2016, entry version 78.
+DE   RecName: Full=Fibrinogen alpha-2 chain;
+DE   Contains:
+DE     RecName: Full=Fibrinopeptide A;
+DE   Contains:
+DE     RecName: Full=Fibrinogen alpha-2 chain;
+DE   Flags: Precursor;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M84565; AAA73183.1; -; mRNA.
+DR   EMBL; M84482; AAA49264.1; -; mRNA.
+DR   PIR; A41932; A41932.
+DR   ProteinModelPortal; P33573; -.
+DR   STRING; 7757.ENSPMAP00000003059; -.
+DR   eggNOG; KOG2579; Eukaryota.
+DR   eggNOG; ENOG410ZYS4; LUCA.
+DR   GO; GO:0005577; C:fibrinogen complex; IEA:InterPro.
+DR   GO; GO:0030168; P:platelet activation; IEA:InterPro.
+DR   GO; GO:0051258; P:protein polymerization; IEA:InterPro.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   CDD; cd00087; FReD; 1.
+DR   Gene3D; 3.90.215.10; -; 1.
+DR   Gene3D; 4.10.530.10; -; 1.
+DR   InterPro; IPR014716; Fibrinogen_a/b/g_C_1.
+DR   InterPro; IPR014715; Fibrinogen_a/b/g_C_2.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR012290; Fibrinogen_a/b/g_coil_dom.
+DR   InterPro; IPR020837; Fibrinogen_CS.
+DR   Pfam; PF08702; Fib_alpha; 1.
+DR   Pfam; PF00147; Fibrinogen_C; 1.
+DR   SMART; SM00186; FBG; 1.
+DR   SMART; SM01212; Fib_alpha; 1.
+DR   SUPFAM; SSF56496; SSF56496; 1.
+DR   PROSITE; PS00514; FIBRINOGEN_C_1; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+PE   2: Evidence at transcript level;
+KW   Blood coagulation; Coiled coil; Disulfide bond; Glycoprotein;
+KW   Hemostasis; Repeat; Secreted; Signal.
+SQ   SEQUENCE   641 AA;  70757 MW;  CA991A8DD698BFB5 CRC64;
+     MTLRGVSMVL TWCLLVSKAW SSGDDSSIDI RGPRLVMPSQ ARDSCSTQQT TELCVEGNWG
+     RKCPGGCRML SMLSRTEKDS MRRVDELTKR LARMIQLHTE IHSYYRSVSD VSNQVVTDRE
+     DTEARFYALL SDLERKIIYL QRRINGQLTL LSQLRNGIAQ QTSTILQLEV DTDVALRTCK
+     GACARQVRYR VDKEMNLQLE KANAYLSGIN LALFEEIVHE SFSVERDDAR SLHPYSGGPA
+     SDSEPRDGDG TASQATGFRS DATDPGVSHG NSSKSFGNVD ERSKVEKDVN VASTSSVSSS
+     SSSSSSSSST SSTISSTQKT EELSFKKVSV STAAVAGKDT DDFQWDSVQT ASQTEEGFVR
+     DTGADSTWNQ HNVQWNSDFG TASDDEPDFQ ARSHRTNLSE YIDCLDVLQR RPGGKASGLY
+     EVRPRGAKRA LTVHCEQDTD GGGWTLVQQR EDGSLNFNRS FSAYREGFGT VDGSGHGELW
+     LGLEAMYLLA HEDSTMRVEL QGWDGAGAHA EYTVTLRDDS KGYALQVSDY RGTAGNALVS
+     GVADDPELTS HGGMTFSTYD RDTDKWSDGS CAEWYGGGWW INACQAANLN GVYYQGGPYD
+     PREKPPYEVE NGVVWATYRG SDYSLKRTAV RFRRVQIPIV E
+//
+ID   FIBB_PETMA              Reviewed;         477 AA.
+AC   P02678;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1989, sequence version 2.
+DT   30-NOV-2016, entry version 93.
+DE   RecName: Full=Fibrinogen beta chain;
+DE   Contains:
+DE     RecName: Full=Fibrinopeptide B;
+DE   Contains:
+DE     RecName: Full=Fibrinogen beta chain;
+DE   Flags: Fragments;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M14773; AAA49261.1; -; mRNA.
+DR   PIR; A25052; A25052.
+DR   PDB; 1LWU; X-ray; 2.80 A; B/E/H/K=155-477.
+DR   PDB; 1N73; X-ray; 2.90 A; B/E=155-477.
+DR   PDBsum; 1LWU; -.
+DR   PDBsum; 1N73; -.
+DR   ProteinModelPortal; P02678; -.
+DR   SMR; P02678; -.
+DR   STRING; 7757.ENSPMAP00000007060; -.
+DR   eggNOG; KOG2579; Eukaryota.
+DR   eggNOG; ENOG410ZYS4; LUCA.
+DR   HOVERGEN; HBG005707; -.
+DR   EvolutionaryTrace; P02678; -.
+DR   GO; GO:0005577; C:fibrinogen complex; IEA:InterPro.
+DR   GO; GO:0030168; P:platelet activation; IEA:InterPro.
+DR   GO; GO:0051258; P:protein polymerization; IEA:InterPro.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   CDD; cd00087; FReD; 1.
+DR   Gene3D; 3.90.215.10; -; 1.
+DR   Gene3D; 4.10.530.10; -; 1.
+DR   InterPro; IPR014716; Fibrinogen_a/b/g_C_1.
+DR   InterPro; IPR014715; Fibrinogen_a/b/g_C_2.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR012290; Fibrinogen_a/b/g_coil_dom.
+DR   InterPro; IPR020837; Fibrinogen_CS.
+DR   Pfam; PF08702; Fib_alpha; 1.
+DR   Pfam; PF00147; Fibrinogen_C; 1.
+DR   SMART; SM00186; FBG; 1.
+DR   SMART; SM01212; Fib_alpha; 1.
+DR   SUPFAM; SSF56496; SSF56496; 1.
+DR   PROSITE; PS00514; FIBRINOGEN_C_1; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Blood coagulation; Coiled coil;
+KW   Direct protein sequencing; Disulfide bond; Glycoprotein; Hemostasis;
+KW   Secreted; Sulfation.
+SQ   SEQUENCE   477 AA;  54270 MW;  B8A95E7E32D09D18 CRC64;
+     EDLSLVGQPE NDYDTGDDBT AADPDSNNTA AALDVRRPLP SGTRVRRPPL RHRRLAPGAV
+     MSRDPPASPR PQEAQKAIRD EGGCMLPESD LGVLCPTGCE LREELLKQRD PVRYKISMLK
+     QNLTYFINSF DRMASDSNTL KQNVQTLRRR LNSRSSTHVN AQKEIENRYK EVKIRIESTV
+     AGSLRSMKSV LEHLRAKMQR MEEAIKTQKE LCSAPCTVNC RVPVVSGMHC EDIYRNGGRT
+     SEAYYIQPDL FSEPYKVFCD MESHGGGWTV VQNRVDGSSN FARDWNTYKA EFGNIAFGNG
+     KSICNIPGEY WLGTKTVHQL TKQHTQQVLF DMSDWEGSSV YAQYASFRPE NEAQGYRLWV
+     EDYSGNAGNA LLEGATQLMG DNRTMTIHNG MQFSTFDRDN DNWNPGDPTK HCSREDAGGW
+     WYNRCHAANP NGRYYWGGIY TKEQADYGTD DGVVWMNWKG SWYSMRQMAM KLRPKWP
+//
+ID   FIBG_PETMA              Reviewed;         432 AA.
+AC   P04115;
+DT   01-NOV-1986, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1986, sequence version 1.
+DT   30-NOV-2016, entry version 87.
+DE   RecName: Full=Fibrinogen gamma chain;
+DE   Flags: Precursor;
+GN   Name=FGG;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; K03049; AAA49262.1; -; mRNA.
+DR   PIR; A03129; FGLMGS.
+DR   PDB; 1LWU; X-ray; 2.80 A; C/F/I/L=103-425.
+DR   PDB; 1N73; X-ray; 2.90 A; C/F=103-432.
+DR   PDBsum; 1LWU; -.
+DR   PDBsum; 1N73; -.
+DR   ProteinModelPortal; P04115; -.
+DR   STRING; 7757.ENSPMAP00000001295; -.
+DR   eggNOG; KOG2579; Eukaryota.
+DR   eggNOG; ENOG410ZYS4; LUCA.
+DR   HOVERGEN; HBG099783; -.
+DR   EvolutionaryTrace; P04115; -.
+DR   GO; GO:0005577; C:fibrinogen complex; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030168; P:platelet activation; IEA:InterPro.
+DR   GO; GO:0051258; P:protein polymerization; IEA:InterPro.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   CDD; cd00087; FReD; 1.
+DR   Gene3D; 3.90.215.10; -; 1.
+DR   Gene3D; 4.10.530.10; -; 1.
+DR   InterPro; IPR014716; Fibrinogen_a/b/g_C_1.
+DR   InterPro; IPR014715; Fibrinogen_a/b/g_C_2.
+DR   InterPro; IPR002181; Fibrinogen_a/b/g_C_dom.
+DR   InterPro; IPR012290; Fibrinogen_a/b/g_coil_dom.
+DR   InterPro; IPR020837; Fibrinogen_CS.
+DR   Pfam; PF08702; Fib_alpha; 1.
+DR   Pfam; PF00147; Fibrinogen_C; 1.
+DR   SMART; SM00186; FBG; 1.
+DR   SMART; SM01212; Fib_alpha; 1.
+DR   SUPFAM; SSF56496; SSF56496; 1.
+DR   PROSITE; PS00514; FIBRINOGEN_C_1; 1.
+DR   PROSITE; PS51406; FIBRINOGEN_C_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Blood coagulation; Calcium; Coiled coil; Disulfide bond;
+KW   Glycoprotein; Hemostasis; Metal-binding; Secreted; Signal.
+SQ   SEQUENCE   432 AA;  49203 MW;  B503979B296DFB24 CRC64;
+     MGRIGTPVFL AFLSALTCSL QVHAQVRDLK QCSNDPEFGR YCPTTCGVAD VLSKYAKGVD
+     EDSSFIDSVL TQLAAKHGIV EGNVNIVNED VRITRDEAQI IKDSGQKTVQ KILEEVRILE
+     QIGVSHDAQI QELSEMWRVN QQFVTRLQQQ LVDIRQTCSR SCQDTTANKI SPITGKDCQQ
+     VVDNGGKDSG LYYIKPLKAK QPFLVFCEIE NGNGWTVIQH RHDGSVNFTR DWVSYREGFG
+     YLAPTLTTEF WLGNEKIHLL TGQQAYRLRI DLTDWENTHR YADYGHFKLT PESDEYRLFY
+     SMYLDGDAGN AFDGFDFGDD PQDKFYTTHL GMLFSTPERD NDKYEGSCAE QDGSGWWMNR
+     CHAGHLNGKY YFGGNYRKTD VEFPYDDGII WATWHDRWYS LKMTTMKLLP MGRDLSGHGG
+     QQQSKGNSRG DN
+//
+ID   GLB1_PETMA              Reviewed;         150 AA.
+AC   P09967;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   05-OCT-2016, entry version 71.
+DE   RecName: Full=Globin-1;
+DE   AltName: Full=Globin I;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; A26042; A26042.
+DR   ProteinModelPortal; P09967; -.
+DR   HOVERGEN; HBG098500; -.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.490.10; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like.
+DR   InterPro; IPR012292; Globin/Proto.
+DR   InterPro; IPR013314; Globin_lamprey/hagfish.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR01906; FISHGLOBIN.
+DR   SUPFAM; SSF46458; SSF46458; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Heme; Iron; Metal-binding;
+KW   Oxygen transport; Transport.
+SQ   SEQUENCE   150 AA;  16469 MW;  315139FAC8E68695 CRC64;
+     MPIVDSGSVP ALTAAEKATI RTAWAPVYAK YQSTGVDILI KFFTSNPAAQ AFFPKFQGLT
+     SADQLKKSMD VRWHAERIIN AVNDAVVAMD DTEKMSLKLR ELSGKHAKSF QVDPQYFKVL
+     AAVIVDTVLP GDAGLEKLMS MICILLRSSY
+//
+ID   GLB2_PETMA              Reviewed;         150 AA.
+AC   Q9I9I3;
+DT   01-JUN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 67.
+DE   RecName: Full=Globin-2;
+DE   AltName: Full=Globin II;
+DE   AltName: Full=Hemoglobin PmII';
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; AF248645; AAF67186.1; -; mRNA.
+DR   ProteinModelPortal; Q9I9I3; -.
+DR   STRING; 7757.ENSPMAP00000008012; -.
+DR   Ensembl; ENSPMAT00000008041; ENSPMAP00000008005; ENSPMAG00000007266.
+DR   Ensembl; ENSPMAT00000008048; ENSPMAP00000008012; ENSPMAG00000007276.
+DR   eggNOG; KOG3378; Eukaryota.
+DR   eggNOG; COG1018; LUCA.
+DR   GeneTree; ENSGT00730000110844; -.
+DR   HOVERGEN; HBG098500; -.
+DR   OrthoDB; EOG091G0PLX; -.
+DR   TreeFam; TF332967; -.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.490.10; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like.
+DR   InterPro; IPR012292; Globin/Proto.
+DR   InterPro; IPR013314; Globin_lamprey/hagfish.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR01906; FISHGLOBIN.
+DR   SUPFAM; SSF46458; SSF46458; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+PE   2: Evidence at transcript level;
+KW   Heme; Iron; Metal-binding; Oxygen transport; Transport.
+SQ   SEQUENCE   150 AA;  16442 MW;  294E00BD5670B29D CRC64;
+     MPIVDTGSVA PLSAAEKTKI RSAWAPVYSN YETSGVDILV KFFTSTPAAQ EFFPKFKGLT
+     TADQLKKSAD VRWHAERIIN AVNDAVVSMD DTEKMSMKLR DLSGKHAKSF QVDPQYFKVL
+     AAVIADTVAA GDAGFEKLMS MICILLRSAY
+//
+ID   GLB3_PETMA              Reviewed;         150 AA.
+AC   P09968;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   05-OCT-2016, entry version 79.
+DE   RecName: Full=Globin-3;
+DE   AltName: Full=Globin III;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; B26042; B26042.
+DR   ProteinModelPortal; P09968; -.
+DR   STRING; 7757.ENSPMAP00000005873; -.
+DR   Ensembl; ENSPMAT00000005900; ENSPMAP00000005873; ENSPMAG00000005328.
+DR   eggNOG; KOG3378; Eukaryota.
+DR   eggNOG; COG1018; LUCA.
+DR   GeneTree; ENSGT00730000110844; -.
+DR   HOVERGEN; HBG098500; -.
+DR   OMA; PEHITAN; -.
+DR   OrthoDB; EOG091G0OAO; -.
+DR   TreeFam; TF332967; -.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.490.10; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like.
+DR   InterPro; IPR012292; Globin/Proto.
+DR   InterPro; IPR013314; Globin_lamprey/hagfish.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR01906; FISHGLOBIN.
+DR   SUPFAM; SSF46458; SSF46458; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Heme; Iron; Metal-binding;
+KW   Oxygen transport; Transport.
+SQ   SEQUENCE   150 AA;  16343 MW;  5C3E3F0D043F579D CRC64;
+     MPIVDSGSVA PLSAAEKTKI RSAWAPVYSN YETTGVDILV KFFTSTPAAQ EFFPKFKGLT
+     TADQLKKSAD VRWHAERIIN AVNDAVVSMD DTEKMSMKLG DLSGKHAKSF QVDPQYFKVL
+     AAVIADTVAA GDAGFEKLMS MICILLRSAY
+//
+ID   GLB5_PETMA              Reviewed;         150 AA.
+AC   P02208;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   02-NOV-2016, entry version 106.
+DE   RecName: Full=Globin-5;
+DE   AltName: Full=Hemoglobin V;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; A90676; GGLMS.
+DR   PDB; 1F5O; X-ray; 2.90 A; A/B/C/D/E/F=2-150.
+DR   PDB; 1F5P; X-ray; 2.90 A; A/B/C/D/E/F=2-150.
+DR   PDB; 2LHB; X-ray; 2.00 A; A=2-150.
+DR   PDB; 3LHB; X-ray; 2.70 A; A/B/C/D/E/F/G/H/I/J/K/L=2-150.
+DR   PDBsum; 1F5O; -.
+DR   PDBsum; 1F5P; -.
+DR   PDBsum; 2LHB; -.
+DR   PDBsum; 3LHB; -.
+DR   ProteinModelPortal; P02208; -.
+DR   SMR; P02208; -.
+DR   STRING; 7757.ENSPMAP00000005904; -.
+DR   Ensembl; ENSPMAT00000005918; ENSPMAP00000005891; ENSPMAG00000005343.
+DR   Ensembl; ENSPMAT00000005931; ENSPMAP00000005904; ENSPMAG00000005354.
+DR   eggNOG; KOG3378; Eukaryota.
+DR   eggNOG; COG1018; LUCA.
+DR   GeneTree; ENSGT00730000110844; -.
+DR   HOVERGEN; HBG098500; -.
+DR   OrthoDB; EOG091G0PLX; -.
+DR   TreeFam; TF332967; -.
+DR   EvolutionaryTrace; P02208; -.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0005506; F:iron ion binding; IEA:InterPro.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.490.10; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like.
+DR   InterPro; IPR012292; Globin/Proto.
+DR   InterPro; IPR013314; Globin_lamprey/hagfish.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR01906; FISHGLOBIN.
+DR   SUPFAM; SSF46458; SSF46458; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Direct protein sequencing; Heme; Iron; Metal-binding;
+KW   Oxygen transport; Transport.
+SQ   SEQUENCE   150 AA;  16401 MW;  39BE05B24670A88A CRC64;
+     MPIVDTGSVA PLSAAEKTKI RSAWAPVYST YETSGVDILV KFFTSTPAAQ EFFPKFKGLT
+     TADQLKKSAD VRWHAERIIN AVNDAVASMD DTEKMSMKLR DLSGKHAKSF QVDPQYFKVL
+     AAVIADTVAA GDAGFEKLMS MICILLRSAY
+//
+ID   GLUC1_PETMA             Reviewed;         160 AA.
+AC   Q9PUR1; Q9PRZ7; Q9PRZ8;
+DT   15-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   05-OCT-2016, entry version 65.
+DE   RecName: Full=Glucagon-1;
+DE   Contains:
+DE     RecName: Full=Glucagon-1;
+DE     AltName: Full=Glucagon I;
+DE   Contains:
+DE     RecName: Full=Glucagon-like peptide 1-I;
+DE              Short=GLP-1I;
+DE   Contains:
+DE     RecName: Full=Glucagon-like peptide 2-I;
+DE              Short=GLP-2I;
+DE   Flags: Precursor;
+GN   Name=gcg1;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; AF159707; AAF09186.1; -; mRNA.
+DR   ProteinModelPortal; Q9PUR1; -.
+DR   STRING; 7757.ENSPMAP00000002387; -.
+DR   eggNOG; ENOG410IKZ8; Eukaryota.
+DR   eggNOG; ENOG4111VKC; LUCA.
+DR   HOVERGEN; HBG003010; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   InterPro; IPR015550; Glucagon.
+DR   InterPro; IPR000532; Glucagon_GIP_secretin_VIP.
+DR   PANTHER; PTHR11418:SF0; PTHR11418:SF0; 1.
+DR   Pfam; PF00123; Hormone_2; 2.
+DR   PRINTS; PR00275; GLUCAGON.
+DR   SMART; SM00070; GLUCA; 3.
+DR   PROSITE; PS00260; GLUCAGON; 2.
+PE   1: Evidence at protein level;
+KW   Cleavage on pair of basic residues; Direct protein sequencing;
+KW   Hormone; Secreted; Signal.
+SQ   SEQUENCE   160 AA;  18042 MW;  9A52C530D5A74072 CRC64;
+     MSDPGFLAAP VLLLLLVSLA SASLEQAASR DDDSAERPLS KRHSEGTFTS DYSKYLENKQ
+     AKDFVRWLMN AKRGGSELQR RHADGTFTND MTSYLDAKAA RDFVSWLARS DKSRRDGGDH
+     LAENSEDKRH AEDVNALLDR TMAKTFIEWL EKQNSNDQTD
+//
+ID   GLUC2_PETMA             Reviewed;         120 AA.
+AC   Q9PUR0;
+DT   15-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   05-OCT-2016, entry version 60.
+DE   RecName: Full=Glucagon-2;
+DE   Contains:
+DE     RecName: Full=Glucagon-2;
+DE     AltName: Full=Glucagon II;
+DE              Short=Glu II;
+DE   Contains:
+DE     RecName: Full=Glucagon-like peptide 2-II;
+DE              Short=GLP-2II;
+DE   Flags: Precursor;
+GN   Name=gcg2;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; AF159708; AAF09187.1; -; mRNA.
+DR   ProteinModelPortal; Q9PUR0; -.
+DR   HOVERGEN; HBG003010; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   InterPro; IPR015550; Glucagon.
+DR   InterPro; IPR000532; Glucagon_GIP_secretin_VIP.
+DR   PANTHER; PTHR11418:SF0; PTHR11418:SF0; 1.
+DR   Pfam; PF00123; Hormone_2; 2.
+DR   SMART; SM00070; GLUCA; 2.
+DR   PROSITE; PS00260; GLUCAGON; 2.
+PE   2: Evidence at transcript level;
+KW   Cleavage on pair of basic residues; Hormone; Secreted; Signal.
+SQ   SEQUENCE   120 AA;  13397 MW;  FBDE667B96E198D8 CRC64;
+     MSNASGTLLS YMFMMLLGLT LASLVPHETD DGDLNAEISL ANRHSQGSFT SDYSKHLDVK
+     QAKDFVTWLL NTKRRGVDAQ AGANLEKRHS DGSFTNDMNV MLDRMSAKNF LEWLKQQGRG
+//
+ID   GON1_PETMA              Reviewed;          10 AA.
+AC   P04378;
+DT   20-MAR-1987, integrated into UniProtKB/Swiss-Prot.
+DT   20-MAR-1987, sequence version 1.
+DT   11-MAY-2016, entry version 56.
+DE   RecName: Full=Gonadoliberin-1;
+DE   AltName: Full=Gonadoliberin I;
+DE   AltName: Full=Gonadotropin-releasing hormone I;
+DE            Short=GnRH-I;
+DE   AltName: Full=Luliberin I;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; A01412; RHLMGS.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007275; P:multicellular organism development; IEA:InterPro.
+DR   InterPro; IPR002012; GnRH.
+DR   PROSITE; PS00473; GNRH; 1.
+PE   1: Evidence at protein level;
+KW   Amidation; Direct protein sequencing; Hormone;
+KW   Pyrrolidone carboxylic acid; Secreted.
+SQ   SEQUENCE   10 AA;  1244 MW;  1E4B36237B1735AB CRC64;
+     QHYSLEWKPG
+//
+ID   GON3_PETMA              Reviewed;          10 AA.
+AC   P30948;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1993, sequence version 1.
+DT   11-MAY-2016, entry version 50.
+DE   RecName: Full=Gonadoliberin-3;
+DE   AltName: Full=Gonadoliberin III;
+DE   AltName: Full=Gonadotropin-releasing hormone III;
+DE            Short=GnRH-III;
+DE   AltName: Full=Luliberin III;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007275; P:multicellular organism development; IEA:InterPro.
+DR   InterPro; IPR002012; GnRH.
+DR   Pfam; PF00446; GnRH; 1.
+DR   PROSITE; PS00473; GNRH; 1.
+PE   1: Evidence at protein level;
+KW   Amidation; Direct protein sequencing; Hormone;
+KW   Pyrrolidone carboxylic acid; Secreted.
+SQ   SEQUENCE   10 AA;  1277 MW;  284B36237AA1F5A3 CRC64;
+     QHWSHDWKPG
+//
+ID   INS_PETMA               Reviewed;          57 AA.
+AC   P68987; P14806; Q9PRR1; Q9PRR2;
+DT   01-FEB-2005, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-2005, sequence version 1.
+DT   05-OCT-2016, entry version 52.
+DE   RecName: Full=Insulin;
+DE   Contains:
+DE     RecName: Full=Insulin B chain;
+DE   Contains:
+DE     RecName: Full=Insulin A chain;
+GN   Name=ins;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; S06338; INLMS.
+DR   ProteinModelPortal; P68987; -.
+DR   STRING; 7757.ENSPMAP00000009873; -.
+DR   Ensembl; ENSPMAT00000009915; ENSPMAP00000009873; ENSPMAG00000008971.
+DR   eggNOG; ENOG410J0XC; Eukaryota.
+DR   eggNOG; ENOG4111VJB; LUCA.
+DR   GeneTree; ENSGT00390000015440; -.
+DR   HOVERGEN; HBG006137; -.
+DR   OrthoDB; EOG091G0H56; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0006006; P:glucose metabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.100.10; -; 1.
+DR   InterPro; IPR004825; Insulin.
+DR   InterPro; IPR016179; Insulin-like.
+DR   InterPro; IPR022353; Insulin_CS.
+DR   InterPro; IPR022352; Insulin_family.
+DR   Pfam; PF00049; Insulin; 1.
+DR   PRINTS; PR00277; INSULIN.
+DR   PRINTS; PR00276; INSULINFAMLY.
+DR   SMART; SM00078; IlGF; 1.
+DR   SUPFAM; SSF56994; SSF56994; 1.
+DR   PROSITE; PS00262; INSULIN; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Direct protein sequencing; Disulfide bond;
+KW   Glucose metabolism; Hormone; Secreted.
+SQ   SEQUENCE   57 AA;  6207 MW;  64029669D2CDB337 CRC64;
+     SALTGAGGTH LCGSHLVEAL YVVCGDRGFF YTPSKTGIVE QCCHRKCSIY DMENYCN
+//
+ID   IOD2_PETMA              Reviewed;         288 AA.
+AC   L7WGA7;
+DT   13-NOV-2013, integrated into UniProtKB/Swiss-Prot.
+DT   03-APR-2013, sequence version 1.
+DT   30-NOV-2016, entry version 15.
+DE   RecName: Full=Type II iodothyronine deiodinase {ECO:0000250|UniProtKB:Q92813};
+DE            EC=1.21.99.4;
+DE   AltName: Full=5DII {ECO:0000250|UniProtKB:Q92813};
+DE   AltName: Full=DIOII {ECO:0000250|UniProtKB:Q92813};
+DE   AltName: Full=Type 2 DI {ECO:0000250|UniProtKB:Q92813};
+DE   AltName: Full=Type-II 5'-deiodinase {ECO:0000250|UniProtKB:Q92813};
+GN   Name=dio2 {ECO:0000250|UniProtKB:Q92813};
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; KC306946; AGC79960.1; -; mRNA.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0004800; F:thyroxine 5'-deiodinase activity; IEA:InterPro.
+DR   GO; GO:0042446; P:hormone biosynthetic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.30.10; -; 2.
+DR   InterPro; IPR000643; Iodothyronine_deiodinase.
+DR   InterPro; IPR008261; Iodothyronine_deiodinase_AS.
+DR   InterPro; IPR012336; Thioredoxin-like_fold.
+DR   PANTHER; PTHR11781; PTHR11781; 2.
+DR   Pfam; PF00837; T4_deiodinase; 1.
+DR   PIRSF; PIRSF001330; IOD; 1.
+DR   PROSITE; PS01205; T4_DEIODINASE; 1.
+PE   2: Evidence at transcript level;
+KW   Membrane; Oxidoreductase; Selenocysteine;
+KW   Thyroid hormones biosynthesis; Transmembrane; Transmembrane helix.
+SQ   SEQUENCE   288 AA;  30946 MW;  67F0A5D0DAB81333 CRC64;
+     MPHVNLLVVL LILPGVFSNC LFLALYDAVS FLRRALQASL THSAKGDAQH PRMLTAQGML
+     SVWRSYVLDA HKKVRLGGKA PNSSVVALGG HSSSSPSFSC AASSSSSHET PTPRTTAEAA
+     ATVTTSTTTT STTSSTAACR LLDFARAHRP LVVNFGSASU PPFVEQLGEF CDLVRDFAGV
+     ADFLVVYIEE AHPSDAWPAP GGLEVPRHLA LGDRCVAASQ LRGLMPPLGR CPVVADAMDN
+     NANIDYGVSY ERLYVIQDGR IRYLGGKGPF FYRVREVKSF LESVKASR
+//
+ID   LAMP_PETMA              Reviewed;         139 AA.
+AC   P33575; P33576;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1994, sequence version 1.
+DT   07-JAN-2015, entry version 54.
+DE   RecName: Full=Lamprin 0.9;
+DE   AltName: Full=Cartilage matrix protein;
+DE   Flags: Precursor;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; L05925; AAA49269.1; -; mRNA.
+DR   EMBL; L05924; AAA49268.1; -; mRNA.
+DR   PIR; C45051; C45051.
+DR   HOVERGEN; HBG017612; -.
+DR   GO; GO:0005578; C:proteinaceous extracellular matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   InterPro; IPR009437; Lamprin.
+DR   Pfam; PF06403; Lamprin; 1.
+DR   PIRSF; PIRSF002264; Lamprin; 1.
+DR   ProDom; PD026327; Lamprin; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Direct protein sequencing; Extracellular matrix;
+KW   Repeat; Secreted; Signal.
+SQ   SEQUENCE   139 AA;  13258 MW;  E248ABB7A6CEC7C3 CRC64;
+     MAAAIQALLV LALLHLATAT PVIGKQTVST LSTGYLGHPV VGGLGYGGLG YGGLGVAGLG
+     VAGLGYGGLG YPGAALGGVY THHAAGLVHP YGGLGYHAAP YHHALGGLGY PLGIGAGVVA
+     PHVVKGKIAA PLAPVVAAI
+//
+ID   LAMR_PETMA              Reviewed;         119 AA.
+AC   P33577;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1994, sequence version 1.
+DT   07-JAN-2015, entry version 46.
+DE   RecName: Full=Lamprin 1.8-10;
+DE   AltName: Full=Cartilage matrix protein;
+DE   Flags: Precursor;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; L05926; AAA49270.1; -; mRNA.
+DR   PIR; B45051; B45051.
+DR   HOVERGEN; HBG096086; -.
+DR   GO; GO:0005578; C:proteinaceous extracellular matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   InterPro; IPR009437; Lamprin.
+DR   Pfam; PF06403; Lamprin; 1.
+DR   PIRSF; PIRSF002264; Lamprin; 1.
+DR   ProDom; PD026327; Lamprin; 1.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; Extracellular matrix; Repeat; Secreted;
+KW   Signal.
+SQ   SEQUENCE   119 AA;  11329 MW;  4EB476FACB7591B8 CRC64;
+     MAATMQALLV IALLHLATAT PVVTKHKVST FSTGFLGHPV GGLGYGGLGY GGLGYGGLGV
+     AGLGYGGLGY PGAALGGAYT HHAALGGLGY PLGIGAGVVA PHVVNSKIAA PLAPVVAAI
+//
+ID   LCRP_PETMA              Reviewed;          19 AA.
+AC   Q10996;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   07-JAN-2015, entry version 46.
+DE   RecName: Full=Corticostatin-related peptide LCRP;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   Ensembl; ENSPMAT00000011096; ENSPMAP00000011050; ENSPMAG00000010069.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042742; P:defense response to bacterium; IEA:UniProtKB-KW.
+PE   1: Evidence at protein level;
+KW   Antibiotic; Antimicrobial; Defensin; Direct protein sequencing;
+KW   Disulfide bond; Secreted.
+SQ   SEQUENCE   19 AA;  2209 MW;  8D9CEDC71A199AE5 CRC64;
+     CPCGRRRCCV RGLNVYCCF
+//
+ID   LDH_PETMA               Reviewed;         334 AA.
+AC   P33571;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 103.
+DE   RecName: Full=L-lactate dehydrogenase;
+DE            Short=LDH;
+DE            EC=1.1.1.27;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; M74064; AAA49267.1; -; mRNA.
+DR   PIR; A38231; A38231.
+DR   ProteinModelPortal; P33571; -.
+DR   STRING; 7757.ENSPMAP00000002676; -.
+DR   PRIDE; P33571; -.
+DR   Ensembl; ENSPMAT00000002689; ENSPMAP00000002676; ENSPMAG00000002438.
+DR   eggNOG; KOG1495; Eukaryota.
+DR   eggNOG; COG0039; LUCA.
+DR   GeneTree; ENSGT00550000074541; -.
+DR   HOVERGEN; HBG000462; -.
+DR   OMA; HLMGEKL; -.
+DR   OrthoDB; EOG091G0HME; -.
+DR   TreeFam; TF314963; -.
+DR   UniPathway; UPA00554; UER00611.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004459; F:L-lactate dehydrogenase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0019752; P:carboxylic acid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.720; -; 1.
+DR   Gene3D; 3.90.110.10; -; 1.
+DR   HAMAP; MF_00488; Lactate_dehydrog; 1.
+DR   InterPro; IPR001557; L-lactate/malate_DH.
+DR   InterPro; IPR011304; L-lactate_DH.
+DR   InterPro; IPR018177; L-lactate_DH_AS.
+DR   InterPro; IPR022383; Lactate/malate_DH_C.
+DR   InterPro; IPR001236; Lactate/malate_DH_N.
+DR   InterPro; IPR015955; Lactate_DH/Glyco_Ohase_4_C.
+DR   InterPro; IPR016040; NAD(P)-bd_dom.
+DR   PANTHER; PTHR11540; PTHR11540; 1.
+DR   Pfam; PF02866; Ldh_1_C; 1.
+DR   Pfam; PF00056; Ldh_1_N; 1.
+DR   PIRSF; PIRSF000102; Lac_mal_DH; 1.
+DR   PRINTS; PR00086; LLDHDRGNASE.
+DR   SUPFAM; SSF51735; SSF51735; 1.
+DR   SUPFAM; SSF56327; SSF56327; 1.
+DR   TIGRFAMs; TIGR01771; L-LDH-NAD; 1.
+DR   PROSITE; PS00064; L_LDH; 1.
+PE   2: Evidence at transcript level;
+KW   Cytoplasm; NAD; Oxidoreductase.
+SQ   SEQUENCE   334 AA;  36432 MW;  E8E4245150EA5113 CRC64;
+     MASTKGKLIH EMVPSKERDP PHSKVTIVGV GQVGMAAAIS VLLRDLADEL ALVDVVEDRL
+     KGEMMDLLHG SLFLKTAKIV ADKDYSVTAG SRLVVVTAGA RQQEGESRLN LVQRNVNIFK
+     FIIPNIVKYS PNCILLVVSN PVDILTYVAW KLSGLPKHRV IGSGCNLDSA RFRYLMSERL
+     GVNSASCHGW IIGEHGDSSV PVWSGVNVAG VGLQSLNPDI GTPKDGEDWK SVHKQVVDSA
+     YEVIKLKGYT SWAIGLSVAD LAETILKNLR RVHPVSTHCK GQHGVHDDVF LSLPCVLGSE
+     GITDIINQTL KKEEEAQVQK SAETLWNVQK ELTF
+//
+ID   NFYB_PETMA              Reviewed;         209 AA.
+AC   P25210;
+DT   01-MAY-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1992, sequence version 1.
+DT   05-OCT-2016, entry version 92.
+DE   RecName: Full=Nuclear transcription factor Y subunit beta;
+DE   AltName: Full=CAAT box DNA-binding protein subunit B;
+DE   AltName: Full=Nuclear transcription factor Y subunit B;
+DE            Short=NF-YB;
+GN   Name=NFYB;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; X59712; CAA42232.1; -; mRNA.
+DR   PIR; S22818; S22818.
+DR   ProteinModelPortal; P25210; -.
+DR   STRING; 7757.ENSPMAP00000001363; -.
+DR   Ensembl; ENSPMAT00000001369; ENSPMAP00000001363; ENSPMAG00000001234.
+DR   eggNOG; KOG0869; Eukaryota.
+DR   eggNOG; COG2036; LUCA.
+DR   GeneTree; ENSGT00550000074689; -.
+DR   HOVERGEN; HBG008864; -.
+DR   OMA; IAGDYIG; -.
+DR   OrthoDB; EOG091G0Y4D; -.
+DR   TreeFam; TF314521; -.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0043565; F:sequence-specific DNA binding; IEA:InterPro.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.20.10; -; 1.
+DR   InterPro; IPR003958; CBFA_NFYB_domain.
+DR   InterPro; IPR009072; Histone-fold.
+DR   InterPro; IPR003956; Transcrpt_fac_NFYB/HAP3_CS.
+DR   Pfam; PF00808; CBFD_NFYB_HMF; 1.
+DR   SUPFAM; SSF47113; SSF47113; 1.
+DR   PROSITE; PS00685; NFYB_HAP3; 1.
+PE   2: Evidence at transcript level;
+KW   Activator; DNA-binding; Nucleus; Transcription;
+KW   Transcription regulation.
+SQ   SEQUENCE   209 AA;  22676 MW;  E89B0F0289882350 CRC64;
+     MDADGSTTDA SQLGITGDYI GGGHYVLQSS DGDAEGSLAS GDHDESCGSK DPYREQDIYL
+     PIANVARIMK TSIPSSGKIA KDAKECVQEC VSEFISFITS EASERCHQEK RKTINGEDIL
+     FAMSTLGFDS YVEPLKQYLQ KYRESMKGEK GINATVVTTT DAIPEELTEE SFSGPLATSI
+     ITADGQQQNV MVYTTAYQQI PGVQPIQFT
+//
+ID   NU1M_PETMA              Reviewed;         321 AA.
+AC   Q37603;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 71.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 1;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 1;
+GN   Name=MT-ND1; Synonyms=MTND1, NADH1, ND1;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08738.1; -; Genomic_DNA.
+DR   PIR; S55004; S55004.
+DR   RefSeq; NP_008148.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014112; ENSPMAP00000011431; ENSPMAG00000013085.
+DR   GeneID; 807812; -.
+DR   CTD; 4535; -.
+DR   GeneTree; ENSGT00390000006621; -.
+DR   HOVERGEN; HBG016682; -.
+DR   OMA; IPVTIVW; -.
+DR   OrthoDB; EOG091G0F0D; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   HAMAP; MF_01350; NDH1_NuoH; 1.
+DR   InterPro; IPR001694; NADH_UbQ_OxRdtase_su1/FPO.
+DR   InterPro; IPR018086; NADH_UbQ_OxRdtase_su1_CS.
+DR   PANTHER; PTHR11432; PTHR11432; 1.
+DR   Pfam; PF00146; NADHdh; 1.
+DR   PROSITE; PS00667; COMPLEX1_ND1_1; 1.
+DR   PROSITE; PS00668; COMPLEX1_ND1_2; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion;
+KW   Mitochondrion inner membrane; NAD; Oxidoreductase; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport; Ubiquinone.
+SQ   SEQUENCE   321 AA;  35474 MW;  53C99CF455D741A2 CRC64;
+     MLIMLTSTLI LVLMVLLAVA FLTMVERKTL GYMQLRKGPN VVGFMGLLQP IADGVKLFLK
+     EPVWPLAASP ILFIVAPIMA LTLALSLWML IPMPQSISTI NITLLVIMAI SSLSVYAILG
+     SGWASNSKYA LIGALRAVAQ TISYEVSLGL ILLCLVILTG SFSLQAFIYT QEHTWFLLSS
+     WPLAAMWFVS TLAETNRTPF DLTEGESELV SGFNVEYAGG PFALFFLAEY SNILFMNTLT
+     AIMFLGPLGS NNLNILPIIN IMMKATPLII LFLWIRASYP RFRYDQLMHL MWKNFLPLNL
+     ALFTLQLSLA VSFGGAGVPQ M
+//
+ID   NU2M_PETMA              Reviewed;         347 AA.
+AC   Q35535;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 75.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 2;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 2;
+GN   Name=MT-ND2; Synonyms=MTND2, NADH2, ND2;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08739.1; -; Genomic_DNA.
+DR   PIR; S55005; S55005.
+DR   RefSeq; NP_008149.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014116; ENSPMAP00000011432; ENSPMAG00000013089.
+DR   GeneID; 807814; -.
+DR   CTD; 4536; -.
+DR   GeneTree; ENSGT00730000111348; -.
+DR   HOVERGEN; HBG016692; -.
+DR   OMA; MHFWLPE; -.
+DR   OrthoDB; EOG091G0J50; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006120; P:mitochondrial electron transport, NADH to ubiquinone; IEA:InterPro.
+DR   InterPro; IPR010933; NADH_DH_su2_C.
+DR   InterPro; IPR003917; NADH_UbQ_OxRdtase_chain2.
+DR   InterPro; IPR001750; ND/Mrp_mem.
+DR   Pfam; PF06444; NADH_dehy_S2_C; 1.
+DR   Pfam; PF00361; Proton_antipo_M; 1.
+DR   PRINTS; PR01436; NADHDHGNASE2.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion;
+KW   Mitochondrion inner membrane; NAD; Oxidoreductase; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport; Ubiquinone.
+SQ   SEQUENCE   347 AA;  38409 MW;  29625F3CC681352F CRC64;
+     MLSPLIQSTL LMTLGLGTLV TFSSTSWILA WIGLEINTIA IIPLMAKTHH PRSIEATTKY
+     FIAQSAGSAT LLITACLTAW YSGNWAISPS NDPIILNAMT LALMLKLGMA PMHFWLPEVM
+     VGLDFITGMI LATWQKLAPI TLLIQIAQDQ NNMFILIPAL LSVFVGGWGG LNQTQTRKIL
+     AYSSIAHMGW ITSMAPFNPT ITWLTTLIYC LITSATFINL HILKANKITA LTMNKHNQIS
+     QMLLLLLLLS LGGLPPLTGF INKLLASIEL ANQNLIIYLF MMMMGSLLSL FFYTRMCYLS
+     IILSPPCSTT NLILWRVVSN KPMTLITMLS TNLFIMTPQL LAVFTLH
+//
+ID   NU3M_PETMA              Reviewed;         116 AA.
+AC   Q35540;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 64.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 3;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 3;
+GN   Name=MT-ND3; Synonyms=MTND3, NADH3, ND3;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08745.1; -; Genomic_DNA.
+DR   PIR; S55011; S55011.
+DR   RefSeq; NP_008155.1; NC_001626.1.
+DR   ProteinModelPortal; Q35540; -.
+DR   Ensembl; ENSPMAT00000014131; ENSPMAP00000011438; ENSPMAG00000013104.
+DR   GeneID; 807807; -.
+DR   CTD; 4537; -.
+DR   GeneTree; ENSGT00390000011605; -.
+DR   HOVERGEN; HBG017392; -.
+DR   OMA; AYEWLQK; -.
+DR   OrthoDB; EOG091G14Y7; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0031966; C:mitochondrial membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   InterPro; IPR000440; NADH_UbQ/plastoQ_OxRdtase_su3.
+DR   PANTHER; PTHR11058; PTHR11058; 1.
+DR   Pfam; PF00507; Oxidored_q4; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion; NAD; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport;
+KW   Ubiquinone.
+SQ   SEQUENCE   116 AA;  13192 MW;  02042D6376A6C124 CRC64;
+     MNSFMVMIML TLTLSSIMAL LAFWLPIMKP DSEKLSPYEC GFDPQGSARL PFSLRFFLVA
+     ILFLLFDLEI ALLLPSPWAT NISNPEFTLL WASLFVLLLT LGLIYEWLQG GLDWAE
+//
+ID   NU4LM_PETMA             Reviewed;          96 AA.
+AC   Q35541;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 69.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 4L;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 4L;
+GN   Name=MT-ND4L; Synonyms=MTND4L, NADH4L, ND4L;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08746.1; -; Genomic_DNA.
+DR   PIR; S55012; S55012.
+DR   RefSeq; NP_008156.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014133; ENSPMAP00000011439; ENSPMAG00000013106.
+DR   GeneID; 807811; -.
+DR   CTD; 4539; -.
+DR   GeneTree; ENSGT00390000004755; -.
+DR   HOVERGEN; HBG071122; -.
+DR   OMA; MMLSLFI; -.
+DR   OrthoDB; EOG091G0ZRL; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0031966; C:mitochondrial membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0042773; P:ATP synthesis coupled electron transport; IEA:InterPro.
+DR   InterPro; IPR001133; NADH_UbQ_OxRdtase_chain4L/K.
+DR   PANTHER; PTHR11434; PTHR11434; 1.
+DR   Pfam; PF00420; Oxidored_q2; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion; NAD; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport;
+KW   Ubiquinone.
+SQ   SEQUENCE   96 AA;  10393 MW;  4E042827931C8BC8 CRC64;
+     MPTTLIFTSF FLALLGLSLQ RKHLLSLLLT LESMALALYV STALWALNNT SLPIMAAPLI
+     ILTFSACEAG MGLSLMIATA RTHNTDQLKA LNLLKC
+//
+ID   NU4M_PETMA              Reviewed;         458 AA.
+AC   Q35542;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 72.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 4;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 4;
+GN   Name=MT-ND4; Synonyms=MTND4, NADH4, ND4;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08747.1; -; Genomic_DNA.
+DR   PIR; S55013; S55013.
+DR   RefSeq; NP_008157.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014134; ENSPMAP00000011440; ENSPMAG00000013107.
+DR   GeneID; 807809; -.
+DR   CTD; 4538; -.
+DR   GeneTree; ENSGT00730000111316; -.
+DR   HOVERGEN; HBG093667; -.
+DR   OMA; IQTPWSY; -.
+DR   OrthoDB; EOG091G0T7G; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0031966; C:mitochondrial membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006120; P:mitochondrial electron transport, NADH to ubiquinone; IEA:InterPro.
+DR   InterPro; IPR000260; NADH4_N.
+DR   InterPro; IPR010227; NADH_Q_OxRdtase_chainM/4.
+DR   InterPro; IPR003918; NADH_UbQ_OxRdtase.
+DR   InterPro; IPR001750; ND/Mrp_mem.
+DR   Pfam; PF01059; Oxidored_q5_N; 1.
+DR   Pfam; PF00361; Proton_antipo_M; 1.
+DR   PRINTS; PR01437; NUOXDRDTASE4.
+DR   TIGRFAMs; TIGR01972; NDH_I_M; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion; NAD; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport;
+KW   Ubiquinone.
+SQ   SEQUENCE   458 AA;  51550 MW;  E3D9226E7A03DB32 CRC64;
+     MLKLIIPSIM LIPMTFLINK KSLLWTATTF FSFLIAALST LTLNMDVAEH NSTNPLLSID
+     QFSCPLIMLS CWLLPLTIMG SQAHMKTEPI TRQKTMISLL ILLQVLLCIT FGASNLLMFY
+     IAFETTLIPT LLIITRWGNQ KERLTAGLYF LFYTLSASLP LLLALIMIQT HLNSLSIYII
+     PLSNLTLLLN TPWSETLWWI ACFLAFLIKM PLYIFHLWLP KAHVEAPIAG SMILAAILLK
+     LGGYGMIRMS SLFIPLTKDL AVPFMIIAMW GMIVTSSICL RQTDLKSMIA YSSVSHMGLV
+     VAGIFTMTPW AWSGALAMMI AHGLVSSGLL CLANITYERT HTRSIFMNRG LKTLFPLMSF
+     WWLMMTFANM ALPPFPNFMA EILIITSLFN WSNWTILLLG LSMTLTALFS LNMLIMTQHE
+     HPNKHAPVNP STTREHLLML MHMAPIILLI ANPSAIMI
+//
+ID   NU5M_PETMA              Reviewed;         598 AA.
+AC   Q35543;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   07-SEP-2016, entry version 73.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 5;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 5;
+GN   Name=MT-ND5; Synonyms=MTND5, NADH5, ND5;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08748.1; -; Genomic_DNA.
+DR   PIR; S55014; S55014.
+DR   RefSeq; NP_008158.1; NC_001626.1.
+DR   Ensembl; ENSPMAT00000014138; ENSPMAP00000011441; ENSPMAG00000013111.
+DR   GeneID; 807813; -.
+DR   CTD; 4540; -.
+DR   GeneTree; ENSGT00730000111303; -.
+DR   HOVERGEN; HBG108343; -.
+DR   OMA; NAWALLM; -.
+DR   OrthoDB; EOG091G0M2F; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0005743; C:mitochondrial inner membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0042773; P:ATP synthesis coupled electron transport; IEA:InterPro.
+DR   InterPro; IPR010934; NADH_DH_su5_C.
+DR   InterPro; IPR003945; NADHpl_OxRdtase_5.
+DR   InterPro; IPR001750; ND/Mrp_mem.
+DR   InterPro; IPR001516; Proton_antipo_N.
+DR   Pfam; PF06455; NADH5_C; 1.
+DR   Pfam; PF00361; Proton_antipo_M; 1.
+DR   Pfam; PF00662; Proton_antipo_N; 1.
+DR   TIGRFAMs; TIGR01974; NDH_I_L; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion;
+KW   Mitochondrion inner membrane; NAD; Oxidoreductase; Respiratory chain;
+KW   Transmembrane; Transmembrane helix; Transport; Ubiquinone.
+SQ   SEQUENCE   598 AA;  67079 MW;  67AE1158937D4897 CRC64;
+     MNSHYLTLIM NSGALLTIIV LLPPIIMPKP SMILTTKLVK ISMFISLIPL TIYLNENMET
+     TLTMKPWMDW ALFNIALSFK IDKYTVIFTP IALMITWSIM EFSQWYMAKE RHMDKFFKYL
+     LLFLITMITF ISANNLLQLF IGWEGVGIMS FLLISWWSGR TKANISALQA VAYNRIGDIG
+     LMMSMVWMCS NTNSWDLQQI TMLLSDQQYL IPTLGFLIAA TGKSAQFGLH PWLPAAMEGP
+     TPVSALLHSS TMVVAGVFLL IRLHPLFQNY PLMLEMTLCL GAMTTICAAL CATTQNDIKK
+     IIAFSTSSQL GLMMVAVGLN HPHIAFLHMC THAFFKAMLF LCSGSIIHNM NNEQDIRKFS
+     CLNNNLPLTT TCMTIGSAAL MGLPFLAGFF TKDLILEALN TSYTNAWALM VTLMAVTLTT
+     AYSSRLIIMS ASGTPRYLPL TPTHENNFIK NPLKRLAWGS LISGLILTST LPPMKPQIFT
+     MPTYIKTIAL MMFIISLIIS MELTNKKINQ TTFSFFTQLA FYPHIIHRLT SHLSLIWSQK
+     LMTQVMDVSW LEKIGPKGLA NHQLKPSTTL TEAHHLNSAT LPLMAFALTL ITLSLTAR
+//
+ID   NU6M_PETMA              Reviewed;         172 AA.
+AC   Q35544;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   02-NOV-2016, entry version 66.
+DE   RecName: Full=NADH-ubiquinone oxidoreductase chain 6;
+DE            EC=1.6.5.3;
+DE   AltName: Full=NADH dehydrogenase subunit 6;
+GN   Name=MT-ND6; Synonyms=MTND6, NADH6, ND6;
+OS   Petromyzon marinus (Sea lamprey).
+OG   Mitochondrion.
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U11880; AAB08749.1; -; Genomic_DNA.
+DR   PIR; S55015; S55015.
+DR   RefSeq; NP_008159.1; NC_001626.1.
+DR   ProteinModelPortal; Q35544; -.
+DR   Ensembl; ENSPMAT00000014139; ENSPMAP00000011442; ENSPMAG00000013112.
+DR   GeneID; 807804; -.
+DR   CTD; 4541; -.
+DR   GeneTree; ENSGT00390000003988; -.
+DR   HOVERGEN; HBG007487; -.
+DR   OMA; YLGGMMV; -.
+DR   OrthoDB; EOG091G14GN; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0031966; C:mitochondrial membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0070469; C:respiratory chain; IEA:UniProtKB-KW.
+DR   GO; GO:0008137; F:NADH dehydrogenase (ubiquinone) activity; IEA:UniProtKB-EC.
+DR   InterPro; IPR001457; NADH_UbQ/plastoQ_OxRdtase_su6.
+DR   Pfam; PF00499; Oxidored_q3; 1.
+PE   3: Inferred from homology;
+KW   Electron transport; Membrane; Mitochondrion; NAD; Oxidoreductase;
+KW   Respiratory chain; Transmembrane; Transmembrane helix; Transport;
+KW   Ubiquinone.
+SQ   SEQUENCE   172 AA;  18463 MW;  C69D941E959B4B52 CRC64;
+     MLSLVLCFFV MFLLGVAVVV LSPSPYFSAL GLVFVAVSGC FIVLYHGGTF LSLVLVLLYL
+     GGMMVVFVYS AALAADPYPE VLGGRVIWFF VICVLCICFA GYMSFNDFFL DVSVACEGAD
+     YTGGIFGAEW LGVTTFYEVG LILVLAGWAL LVCLFSVLVV VRGVNRGALR AV
+//
+ID   OPSD_PETMA              Reviewed;         353 AA.
+AC   Q98980;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1997, sequence version 1.
+DT   05-OCT-2016, entry version 72.
+DE   RecName: Full=Rhodopsin;
+GN   Name=RHO;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U67127; AAB62981.1; -; Genomic_DNA.
+DR   EMBL; U67123; AAB62981.1; JOINED; Genomic_DNA.
+DR   EMBL; U67124; AAB62981.1; JOINED; Genomic_DNA.
+DR   EMBL; U67125; AAB62981.1; JOINED; Genomic_DNA.
+DR   EMBL; U67126; AAB62981.1; JOINED; Genomic_DNA.
+DR   ProteinModelPortal; Q98980; -.
+DR   HOVERGEN; HBG107442; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0004930; F:G-protein coupled receptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0009881; F:photoreceptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007602; P:phototransduction; IEA:UniProtKB-KW.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:UniProtKB-KW.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.840.10; -; 1.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR001760; Opsin.
+DR   InterPro; IPR027430; Retinal_BS.
+DR   InterPro; IPR000732; Rhodopsin.
+DR   InterPro; IPR019477; Rhodopsin_N.
+DR   Pfam; PF00001; 7tm_1; 1.
+DR   Pfam; PF10413; Rhodopsin_N; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00238; OPSIN.
+DR   PRINTS; PR00579; RHODOPSIN.
+DR   PROSITE; PS00237; G_PROTEIN_RECEP_F1_1; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+DR   PROSITE; PS00238; OPSIN; 1.
+PE   1: Evidence at protein level;
+KW   Chromophore; Disulfide bond; G-protein coupled receptor; Glycoprotein;
+KW   Lipoprotein; Membrane; Palmitate; Phosphoprotein;
+KW   Photoreceptor protein; Receptor; Retinal protein;
+KW   Sensory transduction; Transducer; Transmembrane; Transmembrane helix;
+KW   Vision.
+SQ   SEQUENCE   353 AA;  39669 MW;  4868B7699D6D2D0D CRC64;
+     MNGTEGENFY IPFSNKTGLA RSPFEYPQYY LAEPWKYSVL AAYMFFLILV GFPVNFLTLF
+     VTVQHKKLRT PLNYILLNLA VANLFMVLFG FTLTMYSSMN GYFVFGPTMC NFEGFFATLG
+     GEMSLWSLVV LAIERYIVIC KPMGNFRFGS THAYMGVAFT WFMALSCAAP PLVGWSRYLP
+     EGMQCSCGPD YYTLNPNFNN ESFVIYMFLV HFIIPFIVIF FCYGRLLCTV KEAAAAQQES
+     ASTQKAEKEV TRMVVLMVIG FLVCWVPYAS VAFYIFTHQG SDFGATFMTV PAFFAKTSAL
+     YNPIIYILMN KQFRNCMITT LCCGKNPLGD EDSGASTSKT EVSSVSTSQV SPA
+//
+ID   OPSP_PETMA              Reviewed;         444 AA.
+AC   O42490;
+DT   15-JUL-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   02-NOV-2016, entry version 79.
+DE   RecName: Full=Pineal opsin;
+DE   AltName: Full=Pineal gland-specific opsin;
+DE            Short=P-opsin;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; U90671; AAC41240.1; -; Genomic_DNA.
+DR   EMBL; U90667; AAC41240.1; JOINED; Genomic_DNA.
+DR   EMBL; U90668; AAC41240.1; JOINED; Genomic_DNA.
+DR   EMBL; U90669; AAC41240.1; JOINED; Genomic_DNA.
+DR   EMBL; U90670; AAC41240.1; JOINED; Genomic_DNA.
+DR   ProteinModelPortal; O42490; -.
+DR   SMR; O42490; -.
+DR   eggNOG; KOG3656; Eukaryota.
+DR   eggNOG; ENOG410XRW9; LUCA.
+DR   HOVERGEN; HBG107442; -.
+DR   TreeFam; TF324998; -.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0004930; F:G-protein coupled receptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0009881; F:photoreceptor activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007602; P:phototransduction; IEA:UniProtKB-KW.
+DR   GO; GO:0018298; P:protein-chromophore linkage; IEA:UniProtKB-KW.
+DR   GO; GO:0007601; P:visual perception; IEA:InterPro.
+DR   InterPro; IPR000276; GPCR_Rhodpsn.
+DR   InterPro; IPR017452; GPCR_Rhodpsn_7TM.
+DR   InterPro; IPR001760; Opsin.
+DR   InterPro; IPR027430; Retinal_BS.
+DR   Pfam; PF00001; 7tm_1; 1.
+DR   PRINTS; PR00237; GPCRRHODOPSN.
+DR   PRINTS; PR00238; OPSIN.
+DR   PROSITE; PS00237; G_PROTEIN_RECEP_F1_1; 1.
+DR   PROSITE; PS50262; G_PROTEIN_RECEP_F1_2; 1.
+DR   PROSITE; PS00238; OPSIN; 1.
+PE   1: Evidence at protein level;
+KW   Chromophore; Disulfide bond; G-protein coupled receptor; Glycoprotein;
+KW   Lipoprotein; Membrane; Palmitate; Phosphoprotein;
+KW   Photoreceptor protein; Receptor; Retinal protein;
+KW   Sensory transduction; Transducer; Transmembrane; Transmembrane helix.
+SQ   SEQUENCE   444 AA;  48080 MW;  4F62BDA3BA925600 CRC64;
+     MDALQESPPS HHSLPSALPS ATGGNGTVAT MHNPFERPLE GIAPWNFTML AALMGTITAL
+     SLGENFAVIV VTARFRQLRQ PLNYVLVNLA AADLLVSAIG GSVSFFTNIK GYFFLGVHAC
+     VLEGFAVTYF GVVALWSLAL LAFERYFVIC RPLGNFRLQS KHAVLGLAVV WVFSLACTLP
+     PVLGWSSYRP SMIGTTCEPN WYSGELHDHT FILMFFSTCF IFPLAVIFFS YGKLIQKLKK
+     ASETQRGLES TRRAEQQVTR MVVVMILAFL VCWMPYATFS IVVTACPTIH LDPLLAAVPA
+     FFSKTATVYN PVIYIFMNKQ FRDCFVQVLP CKGLKKVSAT QTAGAQDTEH TASVNTQSPG
+     NRHNIALAAG SLRFTGAVAP SPATGVVEPT MSAAGSMGAP PNKSTAPCQQ QGQQQQQQGT
+     PIPAITHVQP LLTHSESVSK ICPV
+//
+ID   OXYT_PETMA              Reviewed;           9 AA.
+AC   P69129; P23879;
+DT   15-FEB-2005, integrated into UniProtKB/Swiss-Prot.
+DT   15-FEB-2005, sequence version 1.
+DT   07-JAN-2015, entry version 25.
+DE   RecName: Full=Vasotocin;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; S06375; S06375.
+DR   HOVERGEN; HBG053390; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   InterPro; IPR022423; Neurohypophysial_hormone_CS.
+DR   Pfam; PF00220; Hormone_4; 1.
+DR   PROSITE; PS00264; NEUROHYPOPHYS_HORM; 1.
+PE   1: Evidence at protein level;
+KW   Amidation; Direct protein sequencing; Disulfide bond; Hormone;
+KW   Secreted.
+SQ   SEQUENCE   9 AA;  1053 MW;  17EB176EB456D04B CRC64;
+     CYIQNCPRG
+//
+ID   PLMN_PETMA              Reviewed;         325 AA.
+AC   P33574;
+DT   01-FEB-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1994, sequence version 1.
+DT   08-JUN-2016, entry version 87.
+DE   RecName: Full=Plasminogen;
+DE            EC=3.4.21.7;
+DE   Flags: Fragments;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; S33879; S33879.
+DR   ProteinModelPortal; P33574; -.
+DR   MEROPS; S01.233; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008236; F:serine-type peptidase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007596; P:blood coagulation; IEA:UniProtKB-KW.
+DR   GO; GO:0042730; P:fibrinolysis; IEA:UniProtKB-KW.
+DR   GO; GO:0048771; P:tissue remodeling; IEA:UniProtKB-KW.
+DR   InterPro; IPR000001; Kringle.
+DR   InterPro; IPR013806; Kringle-like.
+DR   InterPro; IPR018056; Kringle_CS.
+DR   InterPro; IPR009003; Peptidase_S1_PA.
+DR   Pfam; PF00051; Kringle; 2.
+DR   SMART; SM00130; KR; 2.
+DR   SUPFAM; SSF50494; SSF50494; 1.
+DR   SUPFAM; SSF57440; SSF57440; 3.
+DR   PROSITE; PS00021; KRINGLE_1; 2.
+DR   PROSITE; PS50070; KRINGLE_2; 2.
+PE   1: Evidence at protein level;
+KW   Blood coagulation; Direct protein sequencing; Disulfide bond;
+KW   Fibrinolysis; Hemostasis; Hydrolase; Kringle; Protease; Secreted;
+KW   Serine protease; Tissue remodeling; Zymogen.
+SQ   SEQUENCE   325 AA;  35206 MW;  1B5F0B539AC6ED3C CRC64;
+     APIKGYSVTV XLYIFDCQKW SSNYPHKPNF SDATDPKGPW CYTTDYXGAA SVTRSGLRGD
+     EQTPHRHTFS PQSFAGLTTA CVKGTGEGYR GTAALTVSGK ACQAWASQTP GDVYSCQGLV
+     SNYCRNPDGE KLPWCYTTEY CNVPSCTGGP TGSEYHEILT PAQDXYTGIV EDYRGKMSPD
+     AGLEENFCRN PDQDPQGPWC YTXNPEAXPR YCDVLSVVGG XEAQRNSXPR QISLQYGWQT
+     VHVQSIHAEP RGVDIALVKI APPAQLTACV ITXWGETQGT GEDVQFCAGY PEGGTDPVSL
+     VCLEPCVLAP VLVGVVILPX NDRXQ
+//
+ID   PMY_PETMA               Reviewed;          36 AA.
+AC   P80024;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1991, sequence version 1.
+DT   07-SEP-2016, entry version 57.
+DE   RecName: Full=Pancreatic polypeptide MY;
+DE            Short=PMY;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; S16943; S16943.
+DR   ProteinModelPortal; P80024; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   CDD; cd00126; PAH; 1.
+DR   InterPro; IPR001955; Pancreatic_hormone-like.
+DR   InterPro; IPR020392; Pancreatic_hormone-like_CS.
+DR   PANTHER; PTHR10533; PTHR10533; 1.
+DR   Pfam; PF00159; Hormone_3; 1.
+DR   PRINTS; PR00278; PANCHORMONE.
+DR   ProDom; PD001267; Pancreatic_hormone-like; 1.
+DR   SMART; SM00309; PAH; 1.
+DR   PROSITE; PS00265; PANCREATIC_HORMONE_1; 1.
+DR   PROSITE; PS50276; PANCREATIC_HORMONE_2; 1.
+PE   1: Evidence at protein level;
+KW   Amidation; Direct protein sequencing; Hormone; Secreted.
+SQ   SEQUENCE   36 AA;  4206 MW;  76E5D50BED01B90A CRC64;
+     MPPKPDNPSP DASPEELSKY MLAVRNYINL ITRQRY
+//
+ID   SMS_PETMA               Reviewed;          37 AA.
+AC   P21779;
+DT   01-MAY-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1991, sequence version 1.
+DT   07-JAN-2015, entry version 45.
+DE   RecName: Full=Somatostatin-37;
+DE   Contains:
+DE     RecName: Full=Somatostatin-34;
+DE   Contains:
+DE     RecName: Full=Somatostatin-14;
+DE   Flags: Precursor;
+GN   Name=sst;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   PIR; A32000; A32000.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   InterPro; IPR004250; Somatostatin.
+DR   InterPro; IPR018142; Somatostatin/Cortistatin_C.
+DR   PANTHER; PTHR10558; PTHR10558; 1.
+DR   Pfam; PF03002; Somatostatin; 1.
+PE   1: Evidence at protein level;
+KW   Cleavage on pair of basic residues; Direct protein sequencing;
+KW   Disulfide bond; Hormone; Secreted.
+SQ   SEQUENCE   37 AA;  4039 MW;  5918153B2775AC4D CRC64;
+     ALRAAAVAGS PQQLLPLGQR ERKAGCKNFF WKTFSSC
+//
+ID   SODM_PETMA              Reviewed;         144 AA.
+AC   P28767;
+DT   01-DEC-1992, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-1992, sequence version 1.
+DT   05-OCT-2016, entry version 88.
+DE   RecName: Full=Superoxide dismutase [Mn], mitochondrial;
+DE            EC=1.15.1.1;
+DE   Flags: Fragment;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; X64059; CAA45415.1; -; mRNA.
+DR   PIR; S23660; S23660.
+DR   ProteinModelPortal; P28767; -.
+DR   STRING; 7757.ENSPMAP00000007890; -.
+DR   eggNOG; KOG0876; Eukaryota.
+DR   eggNOG; COG0605; LUCA.
+DR   HOVERGEN; HBG004451; -.
+DR   TreeFam; TF105132; -.
+DR   GO; GO:0005759; C:mitochondrial matrix; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004784; F:superoxide dismutase activity; IEA:UniProtKB-EC.
+DR   InterPro; IPR001189; Mn/Fe_SOD.
+DR   InterPro; IPR019832; Mn/Fe_SOD_C.
+DR   InterPro; IPR019831; Mn/Fe_SOD_N.
+DR   PANTHER; PTHR11404; PTHR11404; 1.
+DR   Pfam; PF02777; Sod_Fe_C; 1.
+DR   Pfam; PF00081; Sod_Fe_N; 1.
+DR   PRINTS; PR01703; MNSODISMTASE.
+DR   SUPFAM; SSF46609; SSF46609; 1.
+DR   SUPFAM; SSF54719; SSF54719; 1.
+PE   2: Evidence at transcript level;
+KW   Manganese; Metal-binding; Mitochondrion; Oxidoreductase.
+SQ   SEQUENCE   144 AA;  15281 MW;  69280215724D9A19 CRC64;
+     HISANIMQLH HSKHHATYVN NLNVAEQKLA EAVAKGDVTA EIALQPAIKF NGGGHINHSI
+     FWTNLSPNGG GAPTGDLQKA IETDFGSFTK LQEKMSAVSV AVQGSGWGWL GYDKETGRLR
+     IAACANQDPL QATTGLIPLL GIDV
+//
+ID   UNC5_PETMA              Reviewed;         199 AA.
+AC   Q9PVD5;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   11-MAY-2016, entry version 63.
+DE   RecName: Full=Netrin receptor unc-5 homolog;
+DE   Flags: Fragment;
+GN   Name=UNC-5;
+OS   Petromyzon marinus (Sea lamprey).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+OC   Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+OX   NCBI_TaxID=7757;
+DR   EMBL; AF129475; AAF00103.1; -; mRNA.
+DR   ProteinModelPortal; Q9PVD5; -.
+DR   GO; GO:0016020; C:membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0007275; P:multicellular organism development; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.10; -; 2.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR013098; Ig_I-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR003598; Ig_sub2.
+DR   Pfam; PF07679; I-set; 1.
+DR   SMART; SM00409; IG; 1.
+DR   SMART; SM00408; IGc2; 1.
+DR   SUPFAM; SSF48726; SSF48726; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+PE   2: Evidence at transcript level;
+KW   Developmental protein; Disulfide bond; Glycoprotein;
+KW   Immunoglobulin domain; Membrane; Phosphoprotein; Receptor.
+SQ   SEQUENCE   199 AA;  22911 MW;  C41F9CFC66D8DC0B CRC64;
+     HREEQARYIV KNKPVTMSCA ASPATQIYFK CNGEWLHQKA HHIEEREDET TGRSVREVQT
+     DVSRQQVEEL FGLEDYWCQC VAWSAAGTSK SRKAYVRLAY LRKNFEQKPL GKYALLDHEV
+     LLHCRPPDAI PQAEVEWLKS EEIIDPVIDQ NFYITVDHNL IIKQTRLADS ANYTCVAKNL
+     VAKRRSSTAT ITVYVNGGW
+//
